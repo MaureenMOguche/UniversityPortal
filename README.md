@@ -35,11 +35,14 @@ By providing a comprehensive solution, we strive to simplify processes for both 
 - Endpoints for staff to create assignments, outlines, tests etc
 
 ## Screenshots
-![Screenshot (255)](https://github.com/MaureenMOguche/UniversityPortal/assets/103169301/f75c3c96-bf8d-41a9-81a3-360c62fcf3b8)
+![image](https://github.com/MaureenMOguche/UniversityPortal/assets/103169301/e63b8884-90e9-4611-a0e0-aa036dbf3b56)
 
 ![image](https://github.com/MaureenMOguche/UniversityPortal/assets/103169301/42ea7e7d-6751-4423-b933-413529724390)
 
 ![image](https://github.com/MaureenMOguche/UniversityPortal/assets/103169301/be4ac188-ea3a-4050-bcc0-8490f221766f)
+
+![image](https://github.com/MaureenMOguche/UniversityPortal/assets/103169301/cd53dca8-af2b-43ee-b1c9-182d2f9baf8c)
+
 
 
 
