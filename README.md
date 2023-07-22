@@ -28,7 +28,7 @@ By providing a comprehensive solution, we strive to simplify processes for both 
 ## Currently Working On
 - Frontend development
 
-## Nex Steps
+## Next Steps
 - Develope endpoints for school fees payment
 - Endpoints for notifications
 - Endpoints for staff login
